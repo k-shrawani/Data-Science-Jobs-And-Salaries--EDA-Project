@@ -1,0 +1,3 @@
+The python based exploratary data analysis of this dataset has yeilded important new informataion about properties of dataset.In this projest i investigated correlation between variables,identifies outliers,and obtained a knowledge of the distribution of important features using statisticl summeries and visualization .
+
+The quantitative and qualitative features of the dataset were analyzed in detailed through the use of various plots,including pair,box and histogram plots The analysis demonstarated the ability to visiualize and analyaze the complicated datasets using python tools such as Matplotlib and pandas.The result provide a through grasp of dataset and lay the groundwork for more in-depth studeies and modeling.
